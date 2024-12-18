@@ -12,6 +12,12 @@
 - 📫 How to reach me **tarekulislamemou910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+linkedin Profile : https://www.linkedin.com/in/tarekul-islam-emou-4728812a9/
+
+Facebook Profile : https://www.facebook.com/tarekulislam.emou.1
+
+
 <p align="left">
 </p>
 
