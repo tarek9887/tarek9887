@@ -1,5 +1,4 @@
-<h1 align="center">Assalmoalaikom, Welcome to my Github !!!</h1>
-
+<h1 align="center">Assalamoalaikom, Welcome to my Github !!!</h1>
 
 <h3 align="center">******************************************</h3>
 
@@ -25,19 +24,18 @@
 linkedin Profile : https://www.linkedin.com/in/tarekul-islam-emou-4728812a9/
 
 Facebook Profile : https://www.facebook.com/tarekulislam.emou.1
-<br><br>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarek9887&show_icons=true&locale=en&layout=compact" alt="tarek9887" /></p>
-<br><br><br>
+<br>
 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarek9887&show_icons=true&locale=en" alt="tarek9887" /></p>
-<br><br><br>
+<br>
 
 
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarek9887&" alt="tarek9887" /></p>
-<br><br><br>
+<br>
