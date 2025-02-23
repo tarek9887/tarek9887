@@ -3,7 +3,7 @@
 <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      
+      <title>Document</title>
 </head>
 <body>
       <h1 align="center">Assalamoalaikom , Welcome to my Github !!!</h1>
@@ -12,8 +12,8 @@
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarek9887&label=Profile%20views&color=0e75b6&style=flat" alt="tarek9887" /> </p>
       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarek9887" alt="tarek9887" /></a> </p>
       <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-       <h3 align="center">- 🌱 I’m currently learning **REACT !!!!!**</h3>
-       <h3  align="center">- 📫 How to reach me **tarekulislamemou910@gmail.com**</h3>
+        <p align="center">🌱 Currently Learning: <strong>React.js</strong> 🚀</p>
+        <p align="center">📫 Contact Me: <a href="mailto:tarekulislamemou910@gmail.com">tarekulislamemou910@gmail.com</a></p>
        <br>
        <h3 align="center"><u>Connect with me:</u></h3>
        <p align="center">
