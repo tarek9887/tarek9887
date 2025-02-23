@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **flutter**  ****** HTML , CSS , TAILWIND *******
+- 🌱 I’m currently learning React !!!!!!
 
   
 - 💬 Ask me about **Android**
