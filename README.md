@@ -32,8 +32,3 @@ Facebook Profile : https://www.facebook.com/tarekulislam.emou.1
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarek9887&show_icons=true&locale=en" alt="tarek9887" /></p>
 <br>
 
-
-
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarek9887&" alt="tarek9887" /></p>
-<br>
