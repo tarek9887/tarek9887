@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning React !!!!!!
 
-  
-- 💬 Ask me about **Android**
 
 
 - 📫 How to reach me **tarekulislamemou910@gmail.com**
