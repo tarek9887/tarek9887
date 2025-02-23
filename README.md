@@ -5,9 +5,9 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-      <h1 align="center">Assalamoalaikom , Welcome to my Github !!!</h1>
-      <h1 align="center">Hello 👋, I'm Tarakul Islam</h1>
-      <h2 align="center">A passionate frontend developer from Bangladsh</h2>
+      <h2 align="center">Assalamoalaikom , Welcome to my Github !!!</h2>
+      <h2 align="center">Hello 👋, I'm Tarakul Islam</h2>
+      <h3 align="center">A passionate frontend developer from Bangladsh</h3>
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarek9887&label=Profile%20views&color=0e75b6&style=flat" alt="tarek9887" /> </p>
       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarek9887" alt="tarek9887" /></a> </p>
       <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
