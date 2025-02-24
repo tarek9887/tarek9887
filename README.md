@@ -7,7 +7,7 @@
 <body>
       <h2 align="center">Assalamoalaikom , Welcome to my Github !!!</h2>
       <h2 align="center">Hello 👋, I'm Tarakul Islam</h2>
-      <h3 align="center">👋 About Me
+      <h3 align="center">👋 About Me  <br>
 I'm a Computer Science & Engineering student passionate about Front-end Development, Software Development, and Embedded Systems. I specialize in C, C++, HTML, CSS, Tailwind CSS, JavaScript, and Dart, and I love building interactive web applications. <br>
 
 🚀 Currently working on:  <br>
