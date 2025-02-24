@@ -7,18 +7,7 @@
 <body>
       <h2 align="center">Assalamoalaikom , Welcome to my Github !!!</h2>
       <h2 align="center">Hello 👋, I'm Tarakul Islam</h2>
-      <h4 align="center">👋 About Me  <br>
-I'm a Computer Science & Engineering student passionate about Front-end Development, Software Development, and Embedded Systems. I specialize in C, C++, HTML, CSS, Tailwind CSS, JavaScript, and Dart, and I love building interactive web applications. <br>
-
-🚀 Currently working on:  <br>
-
-A React-based, data-driven space exploration website for an upcoming hackathon at AIUB.
-Exploring React Router DOM API to enhance my front-end skills.  <br>
-💡 Interests: <br>
-
-Web development with React & Tailwind CSS
-Microprocessors & Embedded Systems (recently built a plant watering system using ESP32)
-Research & publishing technical papers (first-time author in progress!)
+     
 🌍 Looking forward to collaborating on open-source projects and exciting web development challenges!</h4> <br>
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarek9887&label=Profile%20views&color=0e75b6&style=flat" alt="tarek9887" /> </p>
       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarek9887" alt="tarek9887" /></a> </p>
