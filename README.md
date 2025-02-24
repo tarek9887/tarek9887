@@ -8,7 +8,7 @@
       <h2 align="center">Assalamoalaikom , Welcome to my Github !!!</h2>
       <h2 align="center">Hello 👋, I'm Tarakul Islam</h2>
      
-🌍 Looking forward to collaborating on open-source projects and exciting web development challenges!</h4> <br>
+<h4 align="center">🌍 Looking forward to collaborating on open-source projects and exciting web development challenges!</h4> <br>
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarek9887&label=Profile%20views&color=0e75b6&style=flat" alt="tarek9887" /> </p>
       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarek9887" alt="tarek9887" /></a> </p>
       <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
